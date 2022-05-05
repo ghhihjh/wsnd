@@ -82,12 +82,12 @@
         "maxLevel": 99
       },
       {
-        "goodsId": 10048033,
+        "goodsId": 10048034,
         "goodsItem": {
           "Id": 104001,//ID 104001: 流浪者的经验
           "Count": 1
         },
-        "scoin": 0,//摩拉
+        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
         "buyLimit": 50000,//限量
@@ -97,12 +97,12 @@
         "maxLevel": 99
       },
       {
-        "goodsId": 10048033,
+        "goodsId": 10048035,
         "goodsItem": {
           "Id": 104002,//ID 104002: 冒险家的经验
           "Count": 1
         },
-        "scoin": 0,//摩拉
+        "scoin": 10000,//摩拉
         "hcoin": 20000,//原石
         "mcoin": 20,//结晶
         "buyLimit": 50000,//限量
@@ -112,7 +112,7 @@
         "maxLevel": 99
       },
       {
-        "goodsId": 10048033,
+        "goodsId": 10048036,
         "goodsItem": {
           "Id": 104003,//ID 104003: 大英雄的经验
           "Count": 1
