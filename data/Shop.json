@@ -6,7 +6,7 @@
         "goodsId": 1004202,
         "goodsItem": {
           "Id": 202,
-          "Count": 1000000
+          "Count": 10000
         },
         "scoin": 1,
         "buyLimit": 500,
@@ -21,16 +21,46 @@
           }
         ]
       },
+	  {
+        "goodsId": 1004001,
+        "goodsItem": {
+          "Id": 203,//ID 创世结晶
+          "Count": 1 //数量
+        },
+        "scoin": 10000,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 0,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048005,
+        "goodsItem": {
+          "Id": 102,//ID 冒险阅历
+          "Count": 10 //数量
+        },
+        "scoin": 10,//摩拉
+        "hcoin": 1000,//原石
+        "mcoin": 0,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
       {
         "goodsId": 10048006,
         "goodsItem": {
-          "Id": 108006,
-          "Count": 20
+          "Id": 108006,//ID 煎蛋
+          "Count": 1 //数量
         },
-        "scoin": 100,
-        "hcoin": 100,
-        "mcoin": 100,
-        "buyLimit": 50000,
+        "scoin": 100,//摩拉
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
@@ -39,16 +69,184 @@
       {
         "goodsId": 10048033,
         "goodsItem": {
-          "Id": 108033,
-          "Count": 20
+          "Id": 108033,//ID 花酿鸡
+          "Count": 1
         },
-        "scoin": 1,
-        "buyLimit": 50000,
+        "scoin": 0,//摩拉
+        "hcoin": 100,//原石
+        "mcoin": 0,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "Id": 104001,//ID 104001: 流浪者的经验
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "Id": 104002,//ID 104002: 冒险家的经验
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 20000,//原石
+        "mcoin": 20,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "Id": 104003,//ID 104003: 大英雄的经验
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 30000,//原石
+        "mcoin": 30,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050001,
+        "goodsItem": {
+          "Id": 104101,//ID 璀璨原钻碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050002,
+        "goodsItem": {
+          "Id": 104111,//ID 燃愿玛瑙碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050003,
+        "goodsItem": {
+          "Id": 104121,//ID 涤净青金碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050004,
+        "goodsItem": {
+          "Id": 104131,//ID 生长碧翡碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050005,
+        "goodsItem": {
+          "Id": 104141,//ID 最胜紫晶碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050006,
+        "goodsItem": {
+          "Id": 104151,//ID 自在松石碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050007,
+        "goodsItem": {
+          "Id": 104161,//ID 哀叙冰玉碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10050008,
+        "goodsItem": {
+          "Id": 104171,//ID 坚牢黄玉碎屑
+          "Count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
         "maxLevel": 99
       }
+	  
     ]
   }
 ]
