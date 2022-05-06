@@ -22,11 +22,13 @@ import emu.grasscutter.game.inventory.Inventory;
 import emu.grasscutter.game.mail.Mail;
 import emu.grasscutter.game.mail.MailHandler;
 import emu.grasscutter.game.managers.MovementManager.MovementManager;
+import emu.grasscutter.game.managers.SotSManager.SotSManager;
 import emu.grasscutter.game.props.ActionReason;
 import emu.grasscutter.game.props.EntityType;
 import emu.grasscutter.game.props.PlayerProperty;
 import emu.grasscutter.game.shop.ShopLimit;
 import emu.grasscutter.game.managers.MapMarkManager.*;
+import emu.grasscutter.game.tower.TowerManager;
 import emu.grasscutter.game.world.Scene;
 import emu.grasscutter.game.world.World;
 import emu.grasscutter.net.packet.BasePacket;
@@ -88,7 +90,11 @@ public class Player {
 	@Transient private MailHandler mailHandler;
 	@Transient private MessageHandler messageHandler;
 
+	@Transient private SotSManager sotsManager;
+
 	private TeamManager teamManager;
+
+	private TowerManager towerManager;
 	private PlayerGachaInfo gachaInfo;
 	private PlayerProfile playerProfile;
 	private boolean showAvatar;
@@ -165,6 +171,7 @@ public class Player {
 		this.messageHandler = null;
 		this.mapMarksManager = new MapMarksManager();
 		this.movementManager = new MovementManager(this);
+		this.sotsManager = new SotSManager(this);
 	}
 
 	// On player creation
@@ -176,6 +183,7 @@ public class Player {
 		this.nickname = "Traveler";
 		this.signature = "";
 		this.teamManager = new TeamManager(this);
+		this.towerManager = new TowerManager(this);
 		this.birthday = new PlayerBirthday();
 		this.setProperty(PlayerProperty.PROP_PLAYER_LEVEL, 1);
 		this.setProperty(PlayerProperty.PROP_IS_SPRING_AUTO_USE, 1);
@@ -192,6 +200,7 @@ public class Player {
 		this.messageHandler = null;
 		this.mapMarksManager = new MapMarksManager();
 		this.movementManager = new MovementManager(this);
+		this.sotsManager = new SotSManager(this);
 	}
 
 	public int getUid() {
@@ -387,6 +396,10 @@ public class Player {
 
 	public TeamManager getTeamManager() {
 		return this.teamManager;
+	}
+
+	public TowerManager getTowerManager() {
+		return towerManager;
 	}
 
 	public PlayerGachaInfo getGachaInfo() {
@@ -976,6 +989,8 @@ public class Player {
 
 	public MovementManager getMovementManager() { return movementManager; }
 
+	public SotSManager getSotSManager() { return sotsManager; }
+
 	public synchronized void onTick() {
 		// Check ping
 		if (this.getLastPingTime() > System.currentTimeMillis() + 60000) {
@@ -1029,6 +1044,9 @@ public class Player {
 		}
 		if (this.getProfile().getUid() == 0) {
 			this.getProfile().syncWithCharacter(this);
+		}
+		if (this.getTowerManager() == null) {
+			this.towerManager = new TowerManager(this);
 		}
 
 		// Check if player object exists in server
