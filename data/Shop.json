@@ -87,9 +87,14 @@
           "Id": 104001,//ID 104001: 流浪者的经验
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -102,9 +107,14 @@
           "Id": 104002,//ID 104002: 冒险家的经验
           "Count": 1
         },
-        "scoin": 20000,//摩拉
         "hcoin": 20000,//原石
         "mcoin": 20,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 200
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -117,9 +127,14 @@
           "Id": 104003,//ID 104003: 大英雄的经验
           "Count": 1
         },
-        "scoin": 30000,//摩拉
         "hcoin": 30000,//原石
         "mcoin": 30,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -132,9 +147,14 @@
           "Id": 104101,//ID 璀璨原钻碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -147,9 +167,14 @@
           "Id": 104111,//ID 燃愿玛瑙碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -162,9 +187,14 @@
           "Id": 104121,//ID 涤净青金碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -177,9 +207,14 @@
           "Id": 104131,//ID 生长碧翡碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -192,9 +227,14 @@
           "Id": 104141,//ID 最胜紫晶碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -207,9 +247,14 @@
           "Id": 104151,//ID 自在松石碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -222,9 +267,14 @@
           "Id": 104161,//ID 哀叙冰玉碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
         "beginTime": 1575129600,
         "endTime": 2051193600,
@@ -237,10 +287,186 @@
           "Id": 104171,//ID 坚牢黄玉碎屑
           "Count": 1
         },
-        "scoin": 10000,//摩拉
         "hcoin": 10000,//原石
         "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050009,
+        "goodsItem": {
+          "Id": 101202,//ID 绯樱绣球
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050010,
+        "goodsItem": {
+          "Id": 101206,//ID 海灵芝
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050011,
+        "goodsItem": {
+          "Id": 101208,//ID 101208: 天云草实
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050012,
+        "goodsItem": {
+          "Id": 101201,//ID 101201: 鬼兜虫
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050013,
+        "goodsItem": {
+          "Id": 101207,//ID 101207: 珊瑚真珠
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050013,
+        "goodsItem": {
+          "Id": 101207,//ID 101207: 珊瑚真珠
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050014,
+        "goodsItem": {
+          "Id": 101203,//ID 101203: 晶化骨髓
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050015,
+        "goodsItem": {
+          "Id": 101204,//ID 101204: 血斛
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050016,
+        "goodsItem": {
+          "Id": 101209,//ID 101209: 幽灯蕈
+          "Count": 1
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
