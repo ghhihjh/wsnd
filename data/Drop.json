@@ -40,7 +40,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -115,7 +115,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -190,7 +190,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -265,7 +265,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -340,7 +340,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -415,7 +415,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -490,7 +490,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -565,7 +565,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -640,7 +640,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -715,7 +715,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -790,7 +790,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -865,7 +865,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -940,7 +940,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -1015,7 +1015,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -1090,7 +1090,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -1165,7 +1165,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -1240,7 +1240,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -4829,7 +4829,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -8418,7 +8418,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -12007,7 +12007,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -15596,7 +15596,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -19185,7 +19185,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -22774,7 +22774,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -26363,7 +26363,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -29952,7 +29952,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -33541,7 +33541,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -37130,7 +37130,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -40719,7 +40719,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -44308,7 +44308,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -47897,7 +47897,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -51486,7 +51486,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -55075,7 +55075,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -58664,7 +58664,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -62253,7 +62253,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -62888,7 +62888,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -66393,7 +66393,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -71270,7 +71270,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -76252,7 +76252,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -81129,7 +81129,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -85901,7 +85901,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -90673,7 +90673,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -95445,7 +95445,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -100322,7 +100322,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -105199,7 +105199,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -106639,7 +106639,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -106714,7 +106714,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -106789,7 +106789,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -106864,7 +106864,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -106939,7 +106939,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107014,7 +107014,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107089,7 +107089,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107164,7 +107164,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107239,7 +107239,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107314,7 +107314,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107389,7 +107389,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107464,7 +107464,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107539,7 +107539,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107614,7 +107614,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107689,7 +107689,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107764,7 +107764,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -107839,7 +107839,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -111351,7 +111351,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -116228,7 +116228,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -117668,7 +117668,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -117743,7 +117743,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -117818,7 +117818,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -117893,7 +117893,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -117968,7 +117968,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118043,7 +118043,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118118,7 +118118,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118193,7 +118193,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118268,7 +118268,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118343,7 +118343,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118418,7 +118418,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118493,7 +118493,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118568,7 +118568,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118643,7 +118643,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118718,7 +118718,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118793,7 +118793,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118868,7 +118868,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -118943,7 +118943,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -119018,7 +119018,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -122530,7 +122530,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -123970,7 +123970,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124045,7 +124045,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124120,7 +124120,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124195,7 +124195,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124270,7 +124270,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124345,7 +124345,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124420,7 +124420,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124495,7 +124495,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124570,7 +124570,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124645,7 +124645,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124720,7 +124720,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124795,7 +124795,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124870,7 +124870,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -124945,7 +124945,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125020,7 +125020,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125095,7 +125095,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125170,7 +125170,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125245,7 +125245,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125320,7 +125320,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125395,7 +125395,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125470,7 +125470,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125545,7 +125545,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125620,7 +125620,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125695,7 +125695,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125770,7 +125770,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125845,7 +125845,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125920,7 +125920,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -125995,7 +125995,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126070,7 +126070,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126145,7 +126145,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126220,7 +126220,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126295,7 +126295,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126370,7 +126370,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126445,7 +126445,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126520,7 +126520,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126595,7 +126595,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126670,7 +126670,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126745,7 +126745,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126820,7 +126820,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126895,7 +126895,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -126970,7 +126970,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127045,7 +127045,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127120,7 +127120,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127195,7 +127195,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127291,7 +127291,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127387,7 +127387,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127483,7 +127483,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127579,7 +127579,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127675,7 +127675,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127771,7 +127771,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127846,7 +127846,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127921,7 +127921,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -127996,7 +127996,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -131508,7 +131508,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -132843,7 +132843,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -132918,7 +132918,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -132993,7 +132993,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133068,7 +133068,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133143,7 +133143,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133218,7 +133218,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133293,7 +133293,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133368,7 +133368,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133464,7 +133464,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133560,7 +133560,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133656,7 +133656,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133752,7 +133752,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133869,7 +133869,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -133965,7 +133965,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134061,7 +134061,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134157,7 +134157,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134253,7 +134253,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134349,7 +134349,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134445,7 +134445,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134520,7 +134520,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134595,7 +134595,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134670,7 +134670,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134745,7 +134745,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134820,7 +134820,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134895,7 +134895,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -134970,7 +134970,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135045,7 +135045,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135120,7 +135120,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135195,7 +135195,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135270,7 +135270,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135345,7 +135345,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135420,7 +135420,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135495,7 +135495,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135570,7 +135570,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135645,7 +135645,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135720,7 +135720,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135795,7 +135795,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -135870,7 +135870,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -139410,7 +139410,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -140850,7 +140850,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -140925,7 +140925,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141000,7 +141000,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141075,7 +141075,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141150,7 +141150,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141225,7 +141225,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141300,7 +141300,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141375,7 +141375,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141450,7 +141450,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141525,7 +141525,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141600,7 +141600,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141675,7 +141675,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141750,7 +141750,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141825,7 +141825,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141900,7 +141900,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -141975,7 +141975,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142050,7 +142050,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142125,7 +142125,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142200,7 +142200,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142275,7 +142275,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142350,7 +142350,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142425,7 +142425,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142500,7 +142500,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142575,7 +142575,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142650,7 +142650,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142725,7 +142725,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142800,7 +142800,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142875,7 +142875,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -142950,7 +142950,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143025,7 +143025,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143100,7 +143100,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143175,7 +143175,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143250,7 +143250,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143325,7 +143325,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143400,7 +143400,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143475,7 +143475,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143550,7 +143550,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143625,7 +143625,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143700,7 +143700,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143775,7 +143775,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143850,7 +143850,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -143925,7 +143925,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144000,7 +144000,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144075,7 +144075,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144150,7 +144150,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144225,7 +144225,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144300,7 +144300,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144375,7 +144375,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144450,7 +144450,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144525,7 +144525,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144600,7 +144600,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144675,7 +144675,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144750,7 +144750,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144825,7 +144825,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144900,7 +144900,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -144975,7 +144975,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145050,7 +145050,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145125,7 +145125,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145200,7 +145200,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145275,7 +145275,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145350,7 +145350,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145425,7 +145425,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -145500,7 +145500,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -149145,7 +149145,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -154050,7 +154050,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -158955,7 +158955,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -163860,7 +163860,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165195,7 +165195,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165270,7 +165270,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165345,7 +165345,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165420,7 +165420,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165495,7 +165495,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165570,7 +165570,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165645,7 +165645,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165720,7 +165720,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165795,7 +165795,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165870,7 +165870,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -165945,7 +165945,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -166020,7 +166020,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -166095,7 +166095,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -166170,7 +166170,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -166245,7 +166245,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -169757,7 +169757,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -174634,7 +174634,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -179511,7 +179511,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -180951,7 +180951,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -181026,7 +181026,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -181101,7 +181101,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -181176,7 +181176,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -181251,7 +181251,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -184840,7 +184840,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -188429,7 +188429,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -192018,7 +192018,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -195607,7 +195607,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199196,7 +199196,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199271,7 +199271,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199346,7 +199346,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199421,7 +199421,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199496,7 +199496,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199571,7 +199571,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199646,7 +199646,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199721,7 +199721,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199796,7 +199796,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199871,7 +199871,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -199946,7 +199946,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200021,7 +200021,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200096,7 +200096,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200171,7 +200171,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200246,7 +200246,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200321,7 +200321,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200396,7 +200396,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200471,7 +200471,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200546,7 +200546,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200621,7 +200621,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200696,7 +200696,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200771,7 +200771,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200888,7 +200888,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -200984,7 +200984,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201080,7 +201080,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201176,7 +201176,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201272,7 +201272,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201368,7 +201368,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201464,7 +201464,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201539,7 +201539,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201614,7 +201614,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201689,7 +201689,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201764,7 +201764,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201839,7 +201839,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201914,7 +201914,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -201989,7 +201989,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202064,7 +202064,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202139,7 +202139,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202214,7 +202214,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202289,7 +202289,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202364,7 +202364,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202439,7 +202439,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202514,7 +202514,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202589,7 +202589,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202664,7 +202664,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202739,7 +202739,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202814,7 +202814,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202889,7 +202889,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -202964,7 +202964,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203039,7 +203039,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203114,7 +203114,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203189,7 +203189,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203264,7 +203264,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203339,7 +203339,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203414,7 +203414,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203489,7 +203489,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203564,7 +203564,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203639,7 +203639,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203714,7 +203714,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
@@ -203789,7 +203789,7 @@
       {
         "itemId": 305,
         "minCount": 1,
-        "maxCount": 5,
+        "maxCount": 10,
         "minWeight": 0,
         "maxWeight": 10000
       },
