@@ -78,16 +78,15 @@ public final class Config {
 		public int MaxAvatarsInTeamMultiplayer = 4;
 		public int MaxEntityLimit = 1000; // Max entity limit per world. // TODO: Enforce later.
 		public boolean WatchGacha = false;
-		public String ServerNickname = "Server";
+		public String ServerNickname = "YuiServer";
 		public int ServerAvatarId = 10000007;
 		public int[] WelcomeEmotes = {2007, 1002, 4010};
-		public String WelcomeMotd = "Welcome to Grasscutter emu";
-		public String WelcomeMailTitle = "Welcome to Grasscutter!";
-		public String WelcomeMailSender = "Lawnmower";
-		public String WelcomeMailContent = "Hi there!\r\nFirst of all, welcome to Grasscutter. If you have any issues, please let us know so that Lawnmower can help you! \r\n\r\nCheck out our:\r\n<type=\"browser\" text=\"Discord\" href=\"https://discord.gg/T5vZU6UyeG\"/>";
+		public String WelcomeMotd = "Welcome to YuiServer-星悦梦璃";
+		public String WelcomeMailTitle = "Welcome to YuiServer-星悦梦璃!";
+		public String WelcomeMailSender = "Yui";
+		public String WelcomeMailContent = "Hi There!\r\n在一切之前，我想先跟大家说：欢迎来到YuiServer。YuiServer是基于Grasscutter构建的Genshin Impact Private Server，同时也将作为Grasscutter的备胎，并会与Grasscutter的代码保持同步。因此，如果你遇到了什么问题，Grasscutter的解决方案一般情况下都是可以直接套用到YuiServer上的，YuiServer是一个免费公益性质，非盈利的私人服务器，请确保你没有通过付费进入，如有付费渠道，请举报反馈哦~ \r\n\r\n链接：\r\n\u003ctype\u003d\"browser\" text\u003d\"YuiServer的QQ群\" href\u003d\"https://jq.qq.com/?_wv\u003d1027\u0026k\u003djBHOcuWI\"/\u003e \u003ctype\u003d\"browser\" text\u003d\"YuiServer主页\" href\u003d\"https://yuina.cn/ys\"/\u003e \u003ctype\u003d\"browser\" text\u003d\"YuiServer的Github开源页面\" href\u003d\"https://github.com/Searchstars/YuiServer\"/\u003e";
 		public Mail.MailItem[] WelcomeMailItems = {
-				new Mail.MailItem(13509, 1, 1),
-				new Mail.MailItem(201, 10000, 1),
+				new Mail.MailItem(201, 100000, 1),
 		};
 
 		public boolean EnableOfficialShop = true;

@@ -89,7 +89,7 @@ public class HandlerSetPlayerBornDataReq extends PacketHandler {
 			mailBuilder.mail.mailContent.title = Grasscutter.getConfig().GameServer.WelcomeMailTitle;
 			mailBuilder.mail.mailContent.sender = Grasscutter.getConfig().GameServer.WelcomeMailSender;
 			// Please credit Grasscutter if changing something here. We don't condone commercial use of the project.
-			mailBuilder.mail.mailContent.content = Grasscutter.getConfig().GameServer.WelcomeMailContent + "\n<type=\"browser\" text=\"GitHub\" href=\"https://github.com/Melledy/Grasscutter\"/>";
+			mailBuilder.mail.mailContent.content = Grasscutter.getConfig().GameServer.WelcomeMailContent + "\n<type=\"browser\" text=\"QQ群\" href=\"https://jq.qq.com/?_wv=1027&k=EUt5aixC\"/>";
 			mailBuilder.mail.itemList.addAll(Arrays.asList(Grasscutter.getConfig().GameServer.WelcomeMailItems));
 			mailBuilder.mail.importance = 1;
 			player.sendMail(mailBuilder.mail);
