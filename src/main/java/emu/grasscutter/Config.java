@@ -6,7 +6,6 @@ import emu.grasscutter.Grasscutter.ServerRunMode;
 import emu.grasscutter.game.mail.Mail;
 
 public final class Config {
-
 	public String DatabaseUrl = "mongodb://localhost:27017";
 	public String DatabaseCollection = "grasscutter";
 
@@ -24,6 +23,7 @@ public final class Config {
 	public GameServerOptions GameServer = new GameServerOptions();
 	public DispatchServerOptions DispatchServer = new DispatchServerOptions();
 	public Locale LocaleLanguage = Locale.getDefault();
+	public Locale DefaultLanguage = Locale.US;
 
 	public Boolean OpenStamina = true;
 	public GameServerOptions getGameServerOptions() {
