@@ -481,7 +481,64 @@
         "endTime": 2051193600,
         "minLevel": 1,
         "maxLevel": 99
-      }
+      },
+      {
+        "goodsId": 10050017,
+        "goodsItem": {
+          "Id": 101205,//ID 101205: 鸣草
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050018,
+        "goodsItem": {
+          "Id": 100033,//ID 100033: 星螺
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050018,
+        "goodsItem": {
+          "Id": 100728,//ID 100728: 蒲公英籽
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
 	  
     ]
   }
