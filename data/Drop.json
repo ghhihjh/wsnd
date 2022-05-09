@@ -119219,7 +119219,7 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 1,
-        "maxWeight": 200
+        "maxWeight": 3000
       },
       {
         "itemId": 55110,

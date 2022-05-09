@@ -538,6 +538,177 @@
         "endTime": 2051193600,
         "minLevel": 1,
         "maxLevel": 99
+      },
+      {
+        "goodsId": 10050020,
+        "goodsItem": {
+          "Id": 104301,//ID 104301: 「自由」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050021,
+        "goodsItem": {
+          "Id": 104304,//ID 104304: 「抗争」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050022,
+        "goodsItem": {
+          "Id": 104307,//ID 104307: 「诗文」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050023,
+        "goodsItem": {
+          "Id": 104310,//ID 104310: 「繁荣」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050024,
+        "goodsItem": {
+          "Id": 104313,//ID 104313: 「勤劳」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050025,
+        "goodsItem": {
+          "Id": 104316,//ID 104316: 「黄金」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050026,
+        "goodsItem": {
+          "Id": 104320,//ID 104320: 「浮世」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050027,
+        "goodsItem": {
+          "Id": 104323,//ID 104323: 「风雅」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10050028,
+        "goodsItem": {
+          "Id": 104326,//ID 104326: 「天光」的教导
+          "Count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 300
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
       }
 	  
     ]

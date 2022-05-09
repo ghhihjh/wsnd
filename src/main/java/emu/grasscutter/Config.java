@@ -80,11 +80,11 @@ public final class Config {
 		public int MaxEntityLimit = 1000; // Max entity limit per world. // TODO: Enforce later.
 		public boolean WatchGacha = false;
 		public String ServerNickname = "YuiServer";
-		public int ServerAvatarId = 10000007;
-		public int ServerNameCardId = 210001;
-		public int ServerLevel = 1;
-		public int ServerWorldLevel = 1;
-		public String ServerSignature = "Server Signature";
+		public int ServerAvatarId = 10000054;
+		public int ServerNameCardId = 210097;
+		public int ServerLevel = 60;
+		public int ServerWorldLevel = 8;
+		public String ServerSignature = "可可爱爱的YuiServer酱~";
 		public int[] WelcomeEmotes = {2007, 1002, 4010};
 		public String WelcomeMotd = "Welcome to YuiServer-星悦梦璃";
 		public String WelcomeMailTitle = "Welcome to YuiServer-星悦梦璃!";
