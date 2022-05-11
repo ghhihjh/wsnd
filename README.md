@@ -4,6 +4,16 @@ YuiServer是一个免费公益性质，非盈利的私人服务器，请确保�
 此项目是YuiServer服务器“星悦梦璃”的镜像，服务器的所有改动、内容都将同步此镜像。
 克隆本镜像即可达到与YuiServer完全一摸一样的体验（包含bug
 
+不定期更新data文件，例如在杂货店添加材料、修改卡池，也可能会更新资源文件夹。
+
+如果你不想搭建，可以直接游玩YuiServer.
+本服务器支持PC Android iOS
+请求各位大佬不要Ddos，本服无任何内部群、圈钱群、支付X元进群等等。都是被倒卖的。
+近期被DDOS严重，已经逐渐崩坏了，求求了
+
+加入YuiServer:
+https://yuina.cn/yuiserver/
+
 
 EN | [中文](README_zh-CN.md)
 
