@@ -1,114 +1,124 @@
 [
   {
-		"monsterId": 28030301,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030302,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030303,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030304,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030305,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030307,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030308,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030309,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030310,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
-	{
-		"monsterId": 28030311,
-		"dropDataList": [{
-				"itemId": 100064,
-				"minCount": 1,
-				"maxCount": 1,
-				"minWeight": 0,
-				"maxWeight": 10000
-			}
-		]
-	},
+    "monsterId": 28030301,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030302,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030303,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030304,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030305,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030307,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030308,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030309,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030310,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
+    "monsterId": 28030311,
+    "dropDataList": [
+      {
+        "itemId": 100064,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
+  },
   {
     "monsterId": 21010101,
     "dropDataList": [
@@ -22919,8 +22929,88 @@
     ]
   },
   {
-    "monsterId": 29030103,
+    "monsterId": 29030103, //公子
+    // 23351: 宗室银瓮
+    // 23352: 宗室之翎
+    // 23353: 宗室面具
+    // 23354: 宗室之花
+    // 23355: 宗室时计
+    // 23356: 宗室银瓮
+    // 23357: 宗室之翎
+    // 23358: 宗室面具
+    // 23359: 宗室之花
+    // 23360: 宗室时计
     "dropDataList": [
+      {
+        "itemId": 23351,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23352,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23353,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23354,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23355,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23356,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23357,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23358,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23359,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23360,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
       {
         "itemId": 201,
         "minCount": 1,
@@ -48042,8 +48132,88 @@
     ]
   },
   {
-    "monsterId": 29050102,
+    "monsterId": 29050102, //女士
     "dropDataList": [
+      //       23361: 魔女的心之火
+      // 23362: 魔女常燃之羽
+      // 23363: 焦灼的魔女帽
+      // 23364: 魔女的炎之花
+      // 23365: 魔女破灭之时
+      // 23366: 魔女的心之火
+      // 23367: 魔女常燃之羽
+      // 23368: 焦灼的魔女帽
+      // 23369: 魔女的炎之花
+      // 23370: 魔女破灭之时
+      {
+        "itemId": 23361,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23362,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23363,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23364,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23365,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23366,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23367,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23368,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23369,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23370,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
       {
         "itemId": 201,
         "minCount": 1,
@@ -58810,7 +58980,88 @@
   },
   {
     "monsterId": 29060203,
+//     29060203: 祸津御建鸣神命 雷电将军
+//     23371: 降雷的凶兆
+// 23372: 雷灾的孑遗
+// 23373: 唤雷的头冠
+// 23374: 雷鸟的怜悯
+// 23375: 雷霆的时计
+// 23376: 降雷的凶兆
+// 23377: 雷灾的孑遗
+// 23378: 唤雷的头冠
+// 23379: 雷鸟的怜悯
+// 23380: 雷霆的时计
     "dropDataList": [
+      {
+        "itemId": 23371,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23372,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23373,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23374,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23375,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23376,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23377,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23378,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23379,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
+      {
+        "itemId": 23380,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 1,
+        "maxWeight": 100
+      },
       {
         "itemId": 201,
         "minCount": 1,
@@ -82590,7 +82841,7 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 1,
-        "maxWeight": 200
+        "maxWeight": 2000
       },
       {
         "itemId": 55110,
@@ -97011,7 +97262,7 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 1,
-        "maxWeight": 200
+        "maxWeight": 2000
       },
       {
         "itemId": 55110,
@@ -136099,7 +136350,7 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 1,
-        "maxWeight": 200
+        "maxWeight": 2000
       },
       {
         "itemId": 55110,
