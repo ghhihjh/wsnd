@@ -1,40 +1,72 @@
 [
-  // 2.1 雷电将军up - 雷电将军，九条裟罗，香菱，砂糖
-{
-  "gachaType": 415,
-  "scheduleId": 993,
-  "bannerType": "EVENT",
-  "prefabPath": "GachaShowPanel_A052",
-  "previewPrefabPath": "UI_Tab_GachaShowPanel_A052",
-  "titlePath": "UI_GACHA_SHOW_PANEL_A052_TITLE",
-  "costItem": 223,
-  "beginTime": 0,
-  "endTime": 1924992000,
-  "sortId": 9998,
-  "maxItemType": 1,
-  "rateUpItems1": [1052],
-  "rateUpItems2": [1056, 1023, 1043]
-},
+  // 1.2 甘雨up - 甘雨，香菱，行秋，诺埃尔
+	{
+		"gachaType": 404,
+		"scheduleId": 873,
+		"bannerType": "EVENT",
+		"prefabPath": "GachaShowPanel_A028",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A028",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A028_TITLE",
+		"costItem": 223,
+		"beginTime": 0,
+		"endTime": 1657047219,
+		"sortId": 9998,
+		"maxItemType": 1,
+		"rateUpItems1": [1037],
+		"rateUpItems2": [1023, 1025, 1034]
+	},
+	// 1.3 魈up - 魈，迪奥娜，北斗，辛焱
+	{
+		"gachaType": 405,
+		"scheduleId": 883,
+		"bannerType": "EVENT",
+		"prefabPath": "GachaShowPanel_A031",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A031",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A031_TITLE",
+		"costItem": 223,
+		"beginTime": 0,
+		"endTime": 1657047219,
+		"sortId": 9998,
+		"maxItemType": 1,
+		"rateUpItems1": [1026],
+		"rateUpItems2": [1039, 1024, 1044]
+	},
+//   // 2.1 雷电将军up - 雷电将军，九条裟罗，香菱，砂糖
+// {
+//   "gachaType": 415,
+//   "scheduleId": 993,
+//   "bannerType": "EVENT",
+//   "prefabPath": "GachaShowPanel_A052",
+//   "previewPrefabPath": "UI_Tab_GachaShowPanel_A052",
+//   "titlePath": "UI_GACHA_SHOW_PANEL_A052_TITLE",
+//   "costItem": 223,
+//   "beginTime": 0,
+//   "endTime": 1924992000,
+//   "sortId": 9998,
+//   "maxItemType": 1,
+//   "rateUpItems1": [1052],
+//   "rateUpItems2": [1056, 1023, 1043]
+// },
 // 1.4 Weapon Banner - Elegy of the End, Skyward Blade
-  // 4-Stars: The Alley Flash, Wine and Song, Favonius Greatsword, Favonius Warbow
-{
-  "gachaType": 426,
-  "scheduleId": 1103,
-  "bannerType": "WEAPON",
-  "prefabPath": "GachaShowPanel_A038",
-  "previewPrefabPath": "UI_Tab_GachaShowPanel_A038",
-  "titlePath": "UI_GACHA_SHOW_PANEL_A038_TITLE",
-  "costItem": 223,
-  "beginTime": 0,
-  "endTime": 1924992000,
-  "sortId": 9997,
-  "minItemType": 2,
-  "eventChance": 50,
-  "softPity": 50,
-  "hardPity": 50,
-  "rateUpItems1": [15503, 11502],
-  "rateUpItems2": [11410, 14410, 12401, 15401, 13401]
-},
+//   // 4-Stars: The Alley Flash, Wine and Song, Favonius Greatsword, Favonius Warbow
+// {
+//   "gachaType": 426,
+//   "scheduleId": 1103,
+//   "bannerType": "WEAPON",
+//   "prefabPath": "GachaShowPanel_A038",
+//   "previewPrefabPath": "UI_Tab_GachaShowPanel_A038",
+//   "titlePath": "UI_GACHA_SHOW_PANEL_A038_TITLE",
+//   "costItem": 223,
+//   "beginTime": 0,
+//   "endTime": 1924992000,
+//   "sortId": 9997,
+//   "minItemType": 2,
+//   "eventChance": 50,
+//   "softPity": 50,
+//   "hardPity": 50,
+//   "rateUpItems1": [15503, 11502],
+//   "rateUpItems2": [11410, 14410, 12401, 15401, 13401]
+// },
 //   // 2.5 Weapon Banner - Engulfing Lightning, Everlasting Moonglow
 //   // 4-Stars: Akuoumaru, Mouun's Moon, Lion's Roar, Favonius Spear, Sacrificial Fragments
 // {
@@ -75,38 +107,38 @@
 // 	"rateUpItems1": [11509, 13502],
 // 	"rateUpItems2": [12306, 13407, 14401, 11401, 15402]
 // },
-// 1.1 钟离up - 钟离，辛焱，雷泽，重云
-{
-  "gachaType": 402,
-  "scheduleId": 853,
-  "bannerType": "EVENT",
-  "prefabPath": "GachaShowPanel_A024",
-  "previewPrefabPath": "UI_Tab_GachaShowPanel_A024",
-  "titlePath": "UI_GACHA_SHOW_PANEL_A024_TITLE",
-  "costItem": 223,
-  "beginTime": 0,
-  "endTime": 1924992000,
-  "sortId": 9998,
-  "maxItemType": 1,
-  "rateUpItems1": [1030],
-  "rateUpItems2": [1044, 1020, 1036]
-},
+// // 1.1 钟离up - 钟离，辛焱，雷泽，重云
+// {
+//   "gachaType": 402,
+//   "scheduleId": 853,
+//   "bannerType": "EVENT",
+//   "prefabPath": "GachaShowPanel_A024",
+//   "previewPrefabPath": "UI_Tab_GachaShowPanel_A024",
+//   "titlePath": "UI_GACHA_SHOW_PANEL_A024_TITLE",
+//   "costItem": 223,
+//   "beginTime": 0,
+//   "endTime": 1924992000,
+//   "sortId": 9998,
+//   "maxItemType": 1,
+//   "rateUpItems1": [1030],
+//   "rateUpItems2": [1044, 1020, 1036]
+// },
 // 1.3 胡桃up - 胡桃，行秋，重云，香菱
-{
-  "gachaType": 406,
-  "scheduleId": 903,
-  "bannerType": "EVENT",
-  "prefabPath": "GachaShowPanel_A033",
-  "previewPrefabPath": "UI_Tab_GachaShowPanel_A033",
-  "titlePath": "UI_GACHA_SHOW_PANEL_A033_TITLE",
-  "costItem": 223,
-  "beginTime": 0,
-  "endTime": 1924992000,
-  "sortId": 9998,
-  "maxItemType": 1,
-  "rateUpItems1": [1046],
-  "rateUpItems2": [1025, 1036, 1023]
-},
+// {
+//   "gachaType": 406,
+//   "scheduleId": 903,
+//   "bannerType": "EVENT",
+//   "prefabPath": "GachaShowPanel_A033",
+//   "previewPrefabPath": "UI_Tab_GachaShowPanel_A033",
+//   "titlePath": "UI_GACHA_SHOW_PANEL_A033_TITLE",
+//   "costItem": 223,
+//   "beginTime": 0,
+//   "endTime": 1924992000,
+//   "sortId": 9998,
+//   "maxItemType": 1,
+//   "rateUpItems1": [1046],
+//   "rateUpItems2": [1025, 1036, 1023]
+// },
 // // 1.5 优菈up - 优菈，辛焱，行秋，北斗
 // {
 //   "gachaType": 410,
