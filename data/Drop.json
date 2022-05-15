@@ -15869,22 +15869,22 @@
         "itemId": 113006,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113007,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113008,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 55110,
@@ -23127,22 +23127,22 @@
         "itemId": 113013,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113014,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113015,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 55110,
@@ -30305,22 +30305,22 @@
         "itemId": 113017,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113018,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113019,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 55110,
@@ -33887,8 +33887,8 @@
         "itemId": 113021,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113017,
@@ -48330,22 +48330,22 @@
         "itemId": 113025,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113026,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113027,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 55110,
@@ -55508,15 +55508,15 @@
         "itemId": 113032,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113033,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 113032,
@@ -58980,18 +58980,25 @@
   },
   {
     "monsterId": 29060203,
-//     29060203: 祸津御建鸣神命 雷电将军
-//     23371: 降雷的凶兆
-// 23372: 雷灾的孑遗
-// 23373: 唤雷的头冠
-// 23374: 雷鸟的怜悯
-// 23375: 雷霆的时计
-// 23376: 降雷的凶兆
-// 23377: 雷灾的孑遗
-// 23378: 唤雷的头冠
-// 23379: 雷鸟的怜悯
-// 23380: 雷霆的时计
+    //     29060203: 祸津御建鸣神命 雷电将军
+    //     23371: 降雷的凶兆
+    // 23372: 雷灾的孑遗
+    // 23373: 唤雷的头冠
+    // 23374: 雷鸟的怜悯
+    // 23375: 雷霆的时计
+    // 23376: 降雷的凶兆
+    // 23377: 雷灾的孑遗
+    // 23378: 唤雷的头冠
+    // 23379: 雷鸟的怜悯
+    // 23380: 雷霆的时计
     "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 100,
+        "maxCount": 10000,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
       {
         "itemId": 23371,
         "minCount": 1,
@@ -59192,8 +59199,8 @@
         "itemId": 113034,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 2234
       },
       {
         "itemId": 55110,
@@ -63332,8 +63339,8 @@
         "itemId": 113002,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -73086,8 +73093,8 @@
         "itemId": 113001,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 86330,
@@ -82840,8 +82847,8 @@
         "itemId": 113009,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 2000
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -92384,8 +92391,8 @@
         "itemId": 113028,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -97261,8 +97268,8 @@
         "itemId": 113020,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 2000
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -102138,8 +102145,8 @@
         "itemId": 113024,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -108290,8 +108297,8 @@
         "itemId": 113012,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -119469,8 +119476,8 @@
         "itemId": 113029,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 3000
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -128447,8 +128454,8 @@
         "itemId": 113030,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -136349,8 +136356,8 @@
         "itemId": 113023,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 2000
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -146084,8 +146091,8 @@
         "itemId": 113022,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -166696,8 +166703,8 @@
         "itemId": 113010,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -176450,8 +176457,8 @@
         "itemId": 113011,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 55110,
@@ -181758,8 +181765,8 @@
         "itemId": 113016,
         "minCount": 1,
         "maxCount": 1,
-        "minWeight": 1,
-        "maxWeight": 200
+        "minWeight": 123,
+        "maxWeight": 1234
       },
       {
         "itemId": 113003,
