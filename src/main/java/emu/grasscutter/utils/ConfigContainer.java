@@ -199,7 +199,7 @@ public class ConfigContainer {
 
     public static class JoinOptions {
         public int[] welcomeEmotes = {2007, 1002, 4010};
-        public String welcomeMessage = "Welcome to YuiServer-<color=#9795f0>星</color><color=#0099CC>悦</color><color=#FF99CC>梦</color><color=#FFFFCC>璃</color>";
+        public String welcomeMessage = "Welcome to YuiServer-<color=#9795f0>星</color><color=#0099CC>悦</color><color=#FF99CC>梦</color><color=#66CC66>璃</color>";
         public JoinOptions.Mail welcomeMail = new JoinOptions.Mail();
 
         public static class Mail {
@@ -227,7 +227,7 @@ public class ConfigContainer {
         public int adventureRank = 60;
         public int worldLevel = 8;
 
-        public String nickName = "<color=#9795f0>星</color><color=#0099CC>悦</color><color=#FF99CC>梦</color><color=#FFFFCC>璃</color>";
+        public String nickName = "<color=#9795f0>Yui</color><color=#0099CC>Server</color>-<color=#FF99CC>星悦</color><color=#66CC66>梦璃</color>";
         public String signature = "可可爱爱的YuiServer酱~";
     }
     
