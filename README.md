@@ -1,19 +1,7 @@
-YuiServer是基于Grasscutter构建的Genshin Impact Private Server，同时也将作为Grasscutter的备胎，并会与Grasscutter的代码保持同步。因此，如果你遇到了什么问题，Grasscutter的解决方案一般情况下都是可以直接套用到YuiServer上的，
-YuiServer是一个免费公益性质，非盈利的私人服务器，请确保你没有通过付费进入，如有付费渠道，请举报反馈哦~ 
+![Grasscutter](https://socialify.git.ci/Grasscutters/Grasscutter/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2022%2F04%2F25%2FxOiJn7lCdcT5Mw1.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+<div align="center"><img alt="Documention" src="https://img.shields.io/badge/Wiki-Grasscutter-blue?style=for-the-badge&link=https://github.com/Grasscutters/Grasscutter/wiki&link=https://github.com/Grasscutters/Grasscutter/wiki"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Grasscutters/Grasscutter?logo=java&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Grasscutters/Grasscutter/Build?logo=github&style=for-the-badge"></div>
 
-此项目是YuiServer服务器“星悦梦璃”的镜像，服务器的所有改动、内容都将同步此镜像。
-克隆本镜像即可达到与YuiServer完全一摸一样的体验（包含bug
-
-不定期更新data文件，例如在杂货店添加材料、修改卡池，也可能会更新资源文件夹。
-
-如果你不想搭建，可以直接游玩YuiServer.
-本服务器支持PC Android iOS
-请求各位大佬不要Ddos，本服无任何内部群、圈钱群、支付X元进群等等。都是被倒卖的。
-近期被DDOS严重，已经逐渐崩坏了，求求了
-
-加入YuiServer:
-https://yuina.cn/yuiserver/
-
+<div align="center"><a href="https://discord.gg/T5vZU6UyeG"><img alt="Discord - Grasscutter" src="https://img.shields.io/discord/965284035985305680?label=Discord&logo=discord&style=for-the-badge"></a></div>
 
 EN | [中文](README_zh-CN.md)
 
@@ -134,12 +122,14 @@ There is a dummy user named "Server" in every player's friends list that you can
 | godmode        | godmode [uid]                                     | player.godmode            | Client only  | Prevents you from taking damage.                             |                                                 |
 | heal           | heal                                              | player.heal               | Client only  | Heals all characters in your current team.                    | h                                               |
 | help           | help [command]                                    |                           | Both side    | Sends the help message or shows information about a specified command. |                                                 |
+| join | join [avatarIds] | player.join | Client only | Force let avatars to join into your current team. Such as `join 10000020 10000021`. | |
 | kick           | kick \<player>                                     | server.kick               | Both side    | Kicks the specified player from the server. (WIP)            | k                                               |
 | killall        | killall [playerUid] [sceneId]                     | server.killall            | Both side    | Kills all entities in the current scene or specified scene of the corresponding player. |                                                 |
 | list           | list                                              |                           | Both side    | Lists online players.                                         |                                                 |
 | permission     | permission <add\|remove> \<UID> \<permission>  | permission   | Both side    | Grants or removes a permission for a user.                   |                                                 |
 | position       | position                                          |                           | Client only  | Sends your current coordinates.                                             | pos                                             |
 | reload         | reload                                            | server.reload             | Both side    | Reloads the server config                                         |                                                 |
+| remove | remove [avatarIndexInYourTeams] | player.remove | Client only | Force remove avatar in your current team. Index start from 1.Such as `remove 1 2`. | |
 | resetconst     | resetconst [all]                                  | player.resetconstellation | Client only  | Resets the constellation level on your currently selected character, will need to relog after using the command to see any changes. | resetconstellation                              |
 | restart        |                                                   |                           | Both side    | Restarts the current session                                 |                                                 |
 | say            | say \<player> \<message>                            | server.sendmessage        | Both side    | Sends a message to a player as the server                    | `sendservmsg` `sendservermessage` `sendmessage` |
