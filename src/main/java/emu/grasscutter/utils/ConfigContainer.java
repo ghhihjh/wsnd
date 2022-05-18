@@ -84,7 +84,6 @@ public class ConfigContainer {
         public String resources = "./resources/";
         public String data = "./data/";
         public String packets = "./packets/";
-        public String keys = "./keys/";
         public String scripts = "./resources/scripts/";
         public String plugins = "./plugins/";
 
@@ -136,7 +135,7 @@ public class ConfigContainer {
         public int bindPort = 22102;
         /* This is the port used in the default region. */
         public int accessPort = 0;
-
+        public boolean enableConsole = true;
         public GameOptions gameOptions = new GameOptions();
         public JoinOptions joinOptions = new JoinOptions();
         public ConsoleAccount serverAccount = new ConsoleAccount();
@@ -199,36 +198,34 @@ public class ConfigContainer {
 
     public static class JoinOptions {
         public int[] welcomeEmotes = {2007, 1002, 4010};
-        public String welcomeMessage = "Welcome to YuiServer-<color=#9795f0>星</color><color=#0099CC>悦</color><color=#FF99CC>梦</color><color=#66CC66>璃</color>";
+        public String welcomeMessage = "Welcome to a Grasscutter server.";
         public JoinOptions.Mail welcomeMail = new JoinOptions.Mail();
 
         public static class Mail {
-            public String title = "Welcome to YuiServer-<color=#9795f0>星悦</color><color=#fbc8d4>梦璃</color>!";
+            public String title = "Welcome to Grasscutter!";
             public String content = """
                     Hi there!\r
-                    在一切之前，我想先跟大家说：欢迎来到YuiServer。\r
-                    YuiServer是基于Grasscutter构建的Genshin Impact Private Server，同时也将作为Grasscutter的备胎，并会与Grasscutter的代码保持同步。\r
-                    因此，如果你遇到了什么问题，Grasscutter的解决方案一般情况下都是可以直接套用到YuiServer上的\r
-                    YuiServer是一个免费公益性质，非盈利的私人服务器，请确保你没有通过付费进入，如有付费渠道，请举报反馈哦~ \r\n
+                    First of all, welcome to Grasscutter. If you have any issues, please let us know so that Lawnmower can help you! \r
                     \r
-                    链接：\r
-                    <type="browser" text="QQ群" href="https://jq.qq.com/?_wv=1027&k=Ydgq0Bhk"/>
+                    Check out our:\r
+                    <type="browser" text="Discord" href="https://discord.gg/T5vZU6UyeG"/>
                     """;
-            public String sender = "<color=#FF9999>悦酱</color>";
+            public String sender = "Lawnmower";
             public emu.grasscutter.game.mail.Mail.MailItem[] items = {
-                    new emu.grasscutter.game.mail.Mail.MailItem(223, 1000, 1)
+                    new emu.grasscutter.game.mail.Mail.MailItem(13509, 1, 1),
+                    new emu.grasscutter.game.mail.Mail.MailItem(201, 99999, 1)
             };
         }
     }
 
     public static class ConsoleAccount {
-        public int avatarId = 10000054;
-        public int nameCardId = 210097;
-        public int adventureRank = 60;
-        public int worldLevel = 8;
+        public int avatarId = 10000007;
+        public int nameCardId = 210001;
+        public int adventureRank = 1;
+        public int worldLevel = 0;
 
-        public String nickName = "<color=#9795f0>Yui</color><color=#0099CC>Server</color>-<color=#FF99CC>星悦</color><color=#66CC66>梦璃</color>";
-        public String signature = "可可爱爱的YuiServer酱~";
+        public String nickName = "Server";
+        public String signature = "Welcome to Grasscutter!";
     }
     
     public static class Files {

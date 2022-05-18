@@ -3,23 +3,42 @@
     "shopId": 1004,
     "items": [
       {
-        "goodsId": 1004202,
+        "goodsId": 1003001,
         "goodsItem": {
-          "Id": 202,
-          "Count": 10000
+          "Id": 201,//ID 原石
+          "Count": 10000 //数量
         },
-        "scoin": 1,
-        "buyLimit": 500,
+        "scoin": 10000,//摩拉
+        "hcoin": 0,//原石
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 1
+          }
+        ],//购买所需要305: 风之印
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
-        "maxLevel": 99,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 1003002,
+        "goodsItem": {
+          "Id": 202,//ID 摩拉
+          "Count": 10000 //数量
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
         "costItemList": [
           {
-            "Id": 223,
-            "Count": 100
+            "Id": 305,
+            "Count": 1
           }
-        ]
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
       },
 	  {
         "goodsId": 1004001,
@@ -36,6 +55,215 @@
           }
         ],//购买所需要305: 风之印
         
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043001,
+        "goodsItem": {
+          "Id": 220026,//ID 尘歌壶
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043002,
+        "goodsItem": {
+          "Id": 210042,//ID 纪行·熄星
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043003,
+        "goodsItem": {
+          "Id": 210079,//ID 稻妻·神樱
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043004,
+        "goodsItem": {
+          "Id": 210081,//ID 神里绫华·扇子
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043005,
+        "goodsItem": {
+          "Id": 210118,//ID 210118: 纪行·容彩
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043006,
+        "goodsItem": {
+          "Id": 210112,//ID 210112: 八重神子·梦狐
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043007,
+        "goodsItem": {
+          "Id": 210110,//ID 210110: 纪行·流彩
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043008,
+        "goodsItem": {
+          "Id": 210104,//ID 210104: 五郎·悠犬
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043009,
+        "goodsItem": {
+          "Id": 210076,//ID 210076: 庆典·浩瀚
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10043010,
+        "goodsItem": {
+          "Id": 210064,//ID 210064: 纪行·风花
+          "Count": 1 //数量
+        },
+        "hcoin": 10000,//原石
+        "mcoin": 100,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 100
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10044005,
+        "goodsItem": {
+          "Id": 210097,//ID 稻妻·珊瑚宫之纹
+          "Count": 1 //数量
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 999,//结晶
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 999
+          }
+        ],//购买所需要305: 风之印
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
@@ -70,7 +298,12 @@
         "scoin": 100,//摩拉
         "hcoin": 0,//原石
         "mcoin": 0,//结晶
-        "buyLimit": 50000,//限量
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 1
+          }
+        ],//购买所需要305: 风之印
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
@@ -85,7 +318,12 @@
         "scoin": 0,//摩拉
         "hcoin": 100,//原石
         "mcoin": 0,//结晶
-        "buyLimit": 50000,//限量
+        "costItemList": [
+          {
+            "Id": 305,
+            "Count": 1
+          }
+        ],//购买所需要305: 风之印
         "beginTime": 1575129600,
         "endTime": 2051193600,
         "minLevel": 1,
@@ -98,11 +336,11 @@
           "Count": 1
         },
         "hcoin": 1000,//原石
-        "mcoin": 10,//结晶
+        "mcoin": 8,//结晶
         "costItemList": [
           {
             "Id": 305,
-            "Count": 100
+            "Count": 80
           }
         ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
@@ -118,11 +356,11 @@
           "Count": 1
         },
         "hcoin": 2000,//原石
-        "mcoin": 20,//结晶
+        "mcoin": 13,//结晶
         "costItemList": [
           {
             "Id": 305,
-            "Count": 200
+            "Count": 130
           }
         ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
@@ -138,11 +376,11 @@
           "Count": 1
         },
         "hcoin": 3000,//原石
-        "mcoin": 30,//结晶
+        "mcoin": 20,//结晶
         "costItemList": [
           {
             "Id": 305,
-            "Count": 300
+            "Count": 200
           }
         ],//购买所需要305: 风之印
         "buyLimit": 50000,//限量
